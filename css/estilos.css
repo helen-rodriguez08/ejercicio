@@ -1,0 +1,37 @@
+body
+{
+    color: palevioletred;
+    text-align: center;
+    font-size: 16px; 
+    margin:0;
+    padding: 0;   
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+#cabecera
+{
+    border: 3px solid blueviolet;
+    background-color: blueviolet;
+    padding-left: 4;
+    margin: 8;
+    text-align: center;
+}
+
+#cabecera h2
+{
+    font-size: 12px;
+    color: beige;
+}
+
+#container
+{
+    width: 70%;
+    padding: 0;
+    text-align: left;
+    border: 1px solid #000;
+    margin: 0 auto;
+}
+#container h1
+{
+    font-size: 20px;
+}
