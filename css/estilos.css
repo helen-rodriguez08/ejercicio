@@ -14,7 +14,7 @@ body
     background-color: blueviolet;
     padding-left: 4;
     margin: 8;
-    text-align: center;
+    text-align: left;
 }
 
 #cabecera h2
@@ -34,4 +34,27 @@ body
 #container h1
 {
     font-size: 20px;
+<<<<<<< HEAD
+}
+
+#cabecera #logo
+{
+    width: 40px;
+    vertical-align: middle;
+}
+
+#cabecera #tagline
+{
+    padding: 0 0 0 1em;
+    font-weight: normal;
+    font-size: 0.8em;
+=======
+    text-align: justify;
+}
+
+#container #footer
+{
+    text-align: center;
+    background-color: yellow;
+>>>>>>> 4428c3db3b23119eb649e1869be9d10e269aebbf
 }
